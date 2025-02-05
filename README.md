@@ -23,7 +23,7 @@ source code def
 
 # Screenshot
 
-![screenshot](C:\Users\julia\IdeaProjects\vererbung_in_java\placeholder_image.png)
+![ich_bekomm_das_bilder_integrieren_nicht_hin](C:\Users\julia\IdeaProjects\vererbung_in_java\placeholder_image.png)
 
 # Lizenz
 
