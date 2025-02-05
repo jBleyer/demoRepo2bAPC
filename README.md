@@ -23,7 +23,7 @@ source code def
 
 # Screenshot
 
-![screenshot](C:\Users\jzhang\Desktop\Bilder\placeholder_image.png)
+![screenshot](C:\Users\julia\IdeaProjects\vererbung_in_java)
 
 # Lizenz
 
